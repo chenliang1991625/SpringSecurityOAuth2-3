@@ -1,0 +1,10 @@
+swagger:
+  basepackage: com.cn.chen.distributed.gateway.config.swaggerConfigs #扫描SwaggerConfig2配置类api包路径
+  service:
+    name: geteway #api名称
+    description: 资源服务 #api描述
+    developer: 陈亮 #api开发者
+  auth:
+    server:   #使用哪种认证方式,我这里没填
+  is:
+    enable: true #是否激活swagger开关

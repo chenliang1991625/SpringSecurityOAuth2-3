@@ -1,0 +1,5 @@
+com\cn\chen\distributed\provider\controller\TestController.class
+com\cn\chen\distributed\provider\service\UserService.class
+com\cn\chen\distributed\provider\UserServerApplication.class
+com\cn\chen\distributed\provider\controller\UserController.class
+com\cn\chen\distributed\provider\service\UserServiceImpl.class

@@ -1,0 +1,11 @@
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\feign\ProfileFeign.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\dto\params\PasswordParam.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\dto\params\ProfileParam.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\feign\fallback\UserServiceFallback.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\feign\fallback\MyFallBack.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\feign\fallback\ProfileFeignFallback.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\interceptor\FeignRequestInterceptor.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\config\FeignRequestConfiguration.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\dto\params\IconParam.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\feign\HelloService.java
+D:\360down\createcode\oauth3\oauth3-commons-feign\src\main\java\com\cn\chen\distributed\interceptor\FeignConfig.java

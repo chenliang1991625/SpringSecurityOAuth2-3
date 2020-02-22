@@ -1,0 +1,10 @@
+com\cn\chen\distributed\dto\params\ProfileParam.class
+com\cn\chen\distributed\feign\fallback\MyFallBack$1.class
+com\cn\chen\distributed\interceptor\FeignRequestInterceptor.class
+com\cn\chen\distributed\feign\HelloService.class
+com\cn\chen\distributed\feign\ProfileFeign.class
+com\cn\chen\distributed\feign\fallback\ProfileFeignFallback.class
+com\cn\chen\distributed\dto\params\IconParam.class
+com\cn\chen\distributed\dto\params\PasswordParam.class
+com\cn\chen\distributed\feign\fallback\MyFallBack.class
+com\cn\chen\distributed\config\FeignRequestConfiguration.class

@@ -1,0 +1,4 @@
+com\cn\chen\distributed\uaa\AuthorizationServer.class
+com\cn\chen\distributed\UAAServerApplication.class
+com\cn\chen\distributed\uaa\TokenConfig.class
+com\cn\chen\distributed\uaa\WebSecurityConfig.class

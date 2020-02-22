@@ -1,0 +1,3 @@
+com\cn\chen\distributed\feign\service\HelloService.class
+com\cn\chen\distributed\feign\ConsumerServerApplication.class
+com\cn\chen\distributed\feign\controller\HelloController.class

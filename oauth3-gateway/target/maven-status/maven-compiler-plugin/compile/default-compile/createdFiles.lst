@@ -1,0 +1,13 @@
+com\cn\chen\distributed\gateway\filter\AuthFilter.class
+com\cn\chen\distributed\gateway\config\ResouceServerConfig$OrderServerConfig.class
+com\cn\chen\distributed\gateway\config\TokenConfig.class
+com\cn\chen\distributed\gateway\config\AuthorizationServer.class
+com\cn\chen\distributed\gateway\config\ResouceServerConfig$UAAServerConfig.class
+com\cn\chen\distributed\gateway\config\swaggerConfigs\DocumentationConfig.class
+com\cn\chen\distributed\gateway\GatewayServer.class
+com\cn\chen\distributed\gateway\config\WebSecurityConfig.class
+com\cn\chen\distributed\gateway\config\ZuulConfig.class
+com\cn\chen\distributed\gateway\common\EncryptUtil.class
+com\cn\chen\distributed\gateway\config\swaggerConfigs\SwaggerConfig2.class
+com\cn\chen\distributed\gateway\config\ResouceServerConfig.class
+com\cn\chen\distributed\gateway\config\swaggerConfigs\WebMvcConfig.class
