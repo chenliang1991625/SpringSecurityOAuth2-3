@@ -1,0 +1,12 @@
+#先关闭杀毒软件
+#vue-element-admin安装镜像和插件依赖,第一、二项任选一
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm install --registry https://registry.npm.taobao.org
+删除node_modules用cnpm install或npm install重新安装模块依赖
+cnpm install node-sass或npm install node-sass
+克隆 vue-element-admin(该模块使用)完整模板到本地，主要作用是方便我们直接拿组件到项目中使用： git clone https://github.com/PanJiaChen/vue-element-admin.git
+克隆 vue-admin-template(简化版,frontend用的就是)基础模板到本地，主要作用是创建一个最简单的项目后台，再根据需求慢慢完善功能： git clone https://github.com/PanJiaChen/vue-admin-template.git
+#下载单个模块
+npm install 缺的模块名 --save
+#若经上面安装失败再删除node_modules,用npm安装(不用cnpm);若还是不成功先用npm安装一次再用cnpm安装一次;实在不行全部删除重新拷贝
+
